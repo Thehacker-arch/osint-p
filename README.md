@@ -65,7 +65,7 @@ This platform tries to solve problems like:
 ## Roadmap (Thing that will be added in the future)
 
 * Add Machine Learning for furthur analysis.
-* Add more Data Scraping sources, like DNS, domain searches, public/leaked databases, OSINT search engine APIs, TOR search results.
+* Add more Data Scraping sources, like DNS, domain searches, public/leaked databases, OSINT search engine APIs, TOR search results and maybe company registration or filings.
 * Add a frontend.
 
 
